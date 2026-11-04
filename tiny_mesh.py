@@ -7,7 +7,10 @@ and graceful degradation — all in one file. No Envoy, no Istio, no sidecar.
 MIT License. https://github.com/hussain-alsaibai/tiny-mesh
 """
 
+
 from __future__ import annotations
+
+__version__ = "0.1.0"
 
 import asyncio
 import json
